@@ -9,4 +9,4 @@ kuzeytekinoglu/kuzeytekinoglu is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-I'm 18. I'm Turkish. I'm interested in artifical intelligiance. I'm student in highschool. Also I worked as repairman in industri.
+I'm 18. I'm Turkish. I'm interested in artifical intelligiance. I'm student of 42 and Technology and Humanity Collage. Also I worked as repairman in industri.
